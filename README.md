@@ -1,7 +1,7 @@
 # Alura-GitHub
 ## Cursos / Treinamentos de Git e GitHub
 
-Comando executados.
+## Comando executados.
 
 #### Verificar a versão do Git instalada
 git --version
@@ -52,7 +52,7 @@ git config user.name
 #### Verificando o email
 git config user.email
 
-#### Adicionado arquivo .gitignore. Todo conteúdo dentro do arquivo .gitignore como pastas e arquivos, serão desprezados pelo git no momento #do push.
+#### Adicionado arquivo .gitignore. Todo conteúdo dentro do arquivo .gitignore como pastas e arquivos, serão desprezados pelo git no momento do push.
 git add .gitignore
 
 #### Commit do arquivo
