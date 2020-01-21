@@ -3,11 +3,11 @@
 
 Comando executados.
 
-####1 Verificar a versão do Git instalada
+#### Verificar a versão do Git instalada
 git --version
 
 # Iniciando um repositório do git
-git init
+.git init
 
 # Mostra o status dos arquivos
 git status
