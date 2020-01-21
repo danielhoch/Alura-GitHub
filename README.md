@@ -6,13 +6,13 @@ Comando executados.
 #### Verificar a versão do Git instalada
 git --version
 
-# Iniciando um repositório do git
+#### Iniciando um repositório do git
 .git init
 
-# Mostra o status dos arquivos
+#### Mostra o status dos arquivos
 git status
 
-# Monitora todos os arquivos da pasta atual
+#### Monitora todos os arquivos da pasta atual
 git add .
 
 # Monitora um arquivo específico, adicionando para commit
