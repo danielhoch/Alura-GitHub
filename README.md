@@ -7,7 +7,7 @@ Comando executados.
 git --version
 
 #### Iniciando um repositório do git
-.git init
+git init
 
 #### Mostra o status dos arquivos
 git status
