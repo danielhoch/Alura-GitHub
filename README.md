@@ -1,9 +1,9 @@
 # Alura-GitHub
-Cursos / Treinamentos de Git e GitHub
+## Cursos / Treinamentos de Git e GitHub
 
 Comando executados.
 
-# Verificar a versão do Git instalada
+####1 Verificar a versão do Git instalada
 git --version
 
 # Iniciando um repositório do git
