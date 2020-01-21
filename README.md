@@ -1,5 +1,4 @@
-# Alura-GitHub
-## Cursos / Treinamentos de Git e GitHub
+# Alura-GitHub - Cursos / Treinamentos de Git e GitHub
 
 ## Comando executados.
 
