@@ -87,11 +87,12 @@ git log --oneline
 git diff 59d9688..81d1d81
 
 #Gerando versão (Tag)
-$git tag -a v12.1.28 -m "Lançando a primeira versão (BETA)"
+
+git tag -a v12.1.28 -m "Lançando a primeira versão (BETA)"
 
 **Enviando versão 12.1.28 para o servidor remoto**
 #Atualizando servidor
-$git push origin master
+git push origin master
 
 #Enviando a tag 12.1.28
-$git push origin v12.1.28
+git push origin v12.1.28
