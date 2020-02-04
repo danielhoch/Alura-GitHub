@@ -69,8 +69,11 @@ git remote add origin https://github.com/danielhoch/Alura-GitHub.git
 #### Baixando um repositorio do gitHub
 git clone https://github.com/danielhoch/Alura-GitHub.git
 
-#### Enviando os dados do repositório origin do gitHub
+#### Enviando os dados para o repositório origin do gitHub
 git push origin master
+
+#### Atualizando os fontes na branch
+git pull
 
 #### Criando branch
 git branch titulo
