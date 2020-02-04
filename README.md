@@ -72,7 +72,7 @@ git clone https://github.com/danielhoch/Alura-GitHub.git
 #### Enviando os dados para o repositório origin do gitHub
 git push origin master
 
-#### Atualizando os fontes na branch
+#### Atualizando os fontes na branch master
 git pull
 
 #### Criando branch
